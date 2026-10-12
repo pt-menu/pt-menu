@@ -1,6 +1,7 @@
 <div align="center">
 
-![1000036876](https://github.com/user-attachments/assets/350cdd0f-495b-4fc2-a184-af516331ad92)
+<img src="https://github.com/user-attachments/assets/350cdd0f-495b-4fc2-a184-af516331ad92" alt="Alt Text" width="300" height="300">
+
 
 ![](https://komarev.com/ghpvc/?username=pt-menu&label=𝐂ustomers+!&color=ffffff)
 
