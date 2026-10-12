@@ -2,6 +2,7 @@
 
 <img src="https://github.com/user-attachments/assets/350cdd0f-495b-4fc2-a184-af516331ad92" alt="Alt Text" width="300" height="300">
 
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Caslon+Condensed&color=F7BC6E&center=true&width=435&lines=Welcome+to+Pt-Menu+!;To+be+nominated%2Fadded%2C;sign+the+ATA!)](https://git.io/typing-svg)
 
 ![](https://komarev.com/ghpvc/?username=pt-menu&label=𝐂ustomers+!&color=ffffff)
 
