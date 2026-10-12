@@ -21,8 +21,8 @@ image
   <summary> 𝐈nspo ! </summary>
   <br>
   
-  
-  <a href="https://github.com/iwanttoholdyourhand">𝗔mber</a>!
+  <a href="https://github.com/pt-medals">Pt-Medals</a>!
+  <a href="https://github.com/loverstown">Loverstown</a>!
 
 
   <br> <br>
