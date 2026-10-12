@@ -8,15 +8,14 @@
 
 
 
-<sub>${\text{\color{#ffffff} txt　\color{#ffffff} txt \color{#ffffff} txt \color{#ffffff}txt \color{#ffffff}txt \color{#ffffff} txt\color{#ffffff} txt　\color{#ffffff}ㅤtxt}}$ <br>
+<sub>${\text{\color{#F7BC6E} txt　\color{#ffffff} txt \color{#F7BC6E} txt }}$ <br>
 
 
 image
 
-<sub>${\text{\color{#ffffff} txt　\color{#ffffff} txt \color{#ffffff} txt \color{#ffffff}txt \color{#ffffff}txt \color{#ffffff} txt\color{#ffffff} txt　\color{#ffffff}ㅤtxt}}$ <br>
+<sub>${\text{\color{#F7BC6E} txt　\color{#ffffff} txt \color{#F7BC6E} txt }}$ <br>
 
-
-<sub>${\text{\color{#ffffff} txt　\color{#ffffff} txt \color{#ffffff} txt \color{#ffffff}txt \color{#ffffff}txt \color{#ffffff} txt\color{#ffffff} txt　\color{#ffffff}ㅤtxt}}$ <br>
+<sub>${\text{\color{#F7BC6E} txt　\color{#ffffff} txt \color{#F7BC6E} txt }}$ <br>
   
 
  <a href="https://github.com/"><img src="https://github.com/user-attachments/assets/79eb2591-e4dd-49b4-aa81-4d4178c0c330"/> </a>
