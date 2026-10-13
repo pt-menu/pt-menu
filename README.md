@@ -15,11 +15,15 @@
   <img src="https://github.com/user-attachments/assets/2cdf3ecc-efef-487c-9eac-bb2086911102" alt="Description of Image" width="20%" style="max-width: 500px; height: auto;" />
 </a>
 
-<sub>${\text{\color{#FFDDB3} @iwanttoholdyourhand　\color{#ffffff} is ponytown's \color{#FFADBE} strawberries and cream dr. pepper! }}$ <br>
+<sub>${\text{\color{#FFDDB3} @iwanttoholdyourhand　\color{#ffffff} is ponytown's \color{#FFADBE} strawberries and cream dr. pepper ! }}$ <br>
 
 
 
-<sub>${\text{\color{#F7BC6E} txt　\color{#ffffff} txt \color{#F7BC6E} txt }}$ <br>
+<a href="https://github.com" target="_blank">
+  <img src="image" alt="Description of Image" width="10%" style="max-width: 500px; height: auto;" />
+</a>
+
+<sub>${\text{\color{#F7BC6E} come-sweet-death (from strawpage)　\color{#ffffff} is ponytown's \color{#F7BC6E} cheese ! }}$ <br>
 
 <sub>${\text{\color{#F7BC6E} txt　\color{#ffffff} txt \color{#F7BC6E} txt }}$ <br>
   
