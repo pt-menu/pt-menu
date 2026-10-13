@@ -60,7 +60,7 @@
   <img src="https://github.com/user-attachments/assets/bb6ddc1e-c369-49b4-b97e-907f97646dd1" alt="Description of Image" width="18%" style="max-width: 500px; height: auto;" />
 </a>
 
-<sub>${\text{\color{#F7BC6E} @777xngel　\color{#ffffff} is ponytown's \color{#F7BC6E} sweet tart ropes ! }}$ <br>
+<sub>${\text{\color{#FFDDB3} @777xngel　\color{#ffffff} is ponytown's \color{#F294B2} sweet tart ropes ! }}$ <br>
 
 ![1000036892](https://github.com/user-attachments/assets/61650241-d0b9-45fe-a01b-08ab29d1045f)
 
