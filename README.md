@@ -33,7 +33,7 @@
   <img src="https://github.com/user-attachments/assets/2ff87ceb-f0f4-4bcb-a2d2-6a1adc5f4ede" alt="Description of Image" width="18%" style="max-width: 500px; height: auto;" />
 </a>
 
-<sub>${\text{\color{#F7BC6E} @mydad-is-myhero　\color{#ffffff} is ponytown's \color{#F7BC6E} mango smoothie ! }}$ <br>
+<sub>${\text{\color{#F7BC6E} @mydad-is-myhero　\color{#ffffff} is ponytown's \color{#FFDE70} mango smoothie ! }}$ <br>
 
 
 <a href="https://github.com/moorgg" target="_blank">
