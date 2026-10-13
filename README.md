@@ -15,7 +15,7 @@
   <img src="https://github.com/user-attachments/assets/2cdf3ecc-efef-487c-9eac-bb2086911102" alt="Description of Image" width="20%" style="max-width: 500px; height: auto;" />
 </a>
 
-@iwanttoholdyourhand is ponytown's strawberry cream dr pepper!
+<sub>${\text{\color{#F7BC6E} @iwanttoholdyourhand　\color{#ffffff} is ponytown's \color{#F7BC6E} strawberries and cream dr. pepper! }}$ <br>
 
 
 
