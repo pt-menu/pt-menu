@@ -10,11 +10,14 @@
 
 <sub>${\text{\color{#F7BC6E} Images next to　\color{#ffffff} text will be linked back \color{#F7BC6E} to github users! }}$ <br>
 
+<div align="left">
 
 <a href="https://github.com/iwanttoholdyourhand" target="_blank">
-  <img src="https://github.com/user-attachments/assets/75cce34e-9442-4bb4-bccd-bcfbf368bf60" alt="Description of Image" width="10%" style="max-width: 500px; height: auto;" />
-</a> @iwanttoholdyourhand is ponytown's strawberry cream dr pepper!
- 
+  <img src="https://github.com/user-attachments/assets/2cdf3ecc-efef-487c-9eac-bb2086911102" alt="Description of Image" width="10%" style="max-width: 500px; height: auto;" />
+</a>
+@iwanttoholdyourhand is ponytown's strawberry cream dr pepper!
+
+<div align="center">
 
 <sub>${\text{\color{#F7BC6E} txt　\color{#ffffff} txt \color{#F7BC6E} txt }}$ <br>
 
