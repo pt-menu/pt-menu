@@ -25,8 +25,14 @@
 
 <sub>${\text{\color{#F7BC6E} come-sweet-death　\color{#ffffff} is ponytown's \color{#F7F26E} cheese ! }}$ <br>
 
-<sub>${\text{\color{#F7BC6E} txt　\color{#ffffff} txt \color{#F7BC6E} txt }}$ <br>
   
+
+<a href="https://github.com/mydad-is-myhero" target="_blank">
+  <img src="image" alt="Description of Image" width="10%" style="max-width: 500px; height: auto;" />
+</a>
+
+<sub>${\text{\color{#F7BC6E} @mydad-is-myhero　\color{#ffffff} is ponytown's \color{#F7BC6E} mango smoothie ! }}$ <br>
+
 
 
 
