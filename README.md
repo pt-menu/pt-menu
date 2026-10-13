@@ -8,7 +8,7 @@
 
 
 
-<sub>${\text{\color{#F7BC6E} txt　\color{#ffffff} txt \color{#F7BC6E} txt }}$ <br>
+<sub>${\text{\color{#F7BC6E} Images next to　\color{#ffffff} text will be linked back \color{#F7BC6E} to github users! }}$ <br>
 
 
 image
