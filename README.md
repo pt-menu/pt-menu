@@ -19,16 +19,18 @@
 
 
 
+
 <a href="https://come-sweet-death.straw.page" target="_blank">
   <img src="https://github.com/user-attachments/assets/f1905b48-a38d-4f4e-a776-784fcdab2dac" alt="Description of Image" width="13%" style="max-width: 500px; height: auto;" />
 </a>
 
 <sub>${\text{\color{#F7BC6E} come-sweet-death　\color{#ffffff} is ponytown's \color{#F7F26E} cheese ! }}$ <br>
 
-  
+
+
 
 <a href="https://github.com/mydad-is-myhero" target="_blank">
-  <img src="image" alt="Description of Image" width="10%" style="max-width: 500px; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/2ff87ceb-f0f4-4bcb-a2d2-6a1adc5f4ede" alt="Description of Image" width="18%" style="max-width: 500px; height: auto;" />
 </a>
 
 <sub>${\text{\color{#F7BC6E} @mydad-is-myhero　\color{#ffffff} is ponytown's \color{#F7BC6E} mango smoothie ! }}$ <br>
