@@ -7,6 +7,18 @@
 [![Typing SVG](https://readme-typing-svg.demolab.com?font=Libre+Caslon+Condensed&color=F7BC6E&center=true&width=435&lines=Welcome+to+Pt-Menu+!;To+be+nominated%2Fadded%2C;sign+the+ATA!)](https://git.io/typing-svg)
 
 
+![1000036892](https://github.com/user-attachments/assets/61650241-d0b9-45fe-a01b-08ab29d1045f)
+
+
+
+<img width="120" height="120" alt="1000036875" src="https://github.com/user-attachments/assets/b0a3c58e-50ed-4860-8cda-90a1587fbe22" />
+
+<sub>${\text{\color{#F7BC6E} popular　\color{#ffffff} on the \color{#F7BC6E} menu : }}$ <br>
+<sub>${\text{\color{#F7BC6E} nominate someone　\color{#ffffff} to be \color{#F7BC6E} popular on the menu... }}$ <br>
+
+
+![1000036892](https://github.com/user-attachments/assets/61650241-d0b9-45fe-a01b-08ab29d1045f)
+
 
 <sub>${\text{\color{#F7BC6E} Images next to　\color{#ffffff} text will be linked back \color{#F7BC6E} to github users! }}$ <br>
 
@@ -41,6 +53,10 @@
 </a>
 
 <sub>${\text{\color{#F7BC6E} @moorgg　\color{#ffffff} is ponytown's \color{#F2A83A} orange ! }}$ <br>
+
+
+![1000036892](https://github.com/user-attachments/assets/61650241-d0b9-45fe-a01b-08ab29d1045f)
+
 
 <details>
   <summary> 𝐈nspo ! </summary>
