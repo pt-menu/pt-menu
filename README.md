@@ -19,8 +19,8 @@
 
 
 
-<a href="https://github.com" target="_blank">
-  <img src="image" alt="Description of Image" width="10%" style="max-width: 500px; height: auto;" />
+<a href="https://come-sweet-death.straw.page" target="_blank">
+  <img src="https://github.com/user-attachments/assets/f1905b48-a38d-4f4e-a776-784fcdab2dac" alt="Description of Image" width="10%" style="max-width: 500px; height: auto;" />
 </a>
 
 <sub>${\text{\color{#F7BC6E} come-sweet-death (from strawpage)　\color{#ffffff} is ponytown's \color{#F7BC6E} cheese ! }}$ <br>
