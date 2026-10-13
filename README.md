@@ -40,7 +40,7 @@
   <img src="https://github.com/user-attachments/assets/5b7070cf-66e6-466f-bea4-55b9d62792f8" alt="Description of Image" width="15%" style="max-width: 500px; height: auto;" />
 </a>
 
-<sub>${\text{\color{#F7BC6E} @moorgg　\color{#ffffff} is ponytown's \color{#F7BC6E} orange ! }}$ <br>
+<sub>${\text{\color{#F7BC6E} @moorgg　\color{#ffffff} is ponytown's \color{#F2A83A} orange ! }}$ <br>
 
 <details>
   <summary> 𝐈nspo ! </summary>
