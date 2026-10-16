@@ -78,6 +78,14 @@
 
 <sub>${\text{\color{#F7BC6E} @kiwiconiccc　\color{#ffffff} is ponytown's \color{#FEFFD4} coffee jelly ! }}$ <br>
 
+
+
+<a href="https://github.com/Jfk1fan" target="_blank">
+  <img src="https://github.com/user-attachments/assets/89293a26-af05-434c-8100-9f977ad55237" alt="Description of Image" width="15%" style="max-width: 500px; height: auto;" />
+</a>
+
+<sub>${\text{\color{#F7BC6E} @Jfk1fan　\color{#ffffff} is ponytown's \color{#F7BC6E} fish chowder ! }}$ <br>
+
 ![1000036892](https://github.com/user-attachments/assets/61650241-d0b9-45fe-a01b-08ab29d1045f)
 
 
