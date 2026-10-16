@@ -69,7 +69,15 @@
 </a>
 
 <sub>${\text{\color{#F7BC6E} @J0hn-Lrnnon　\color{#ffffff} is ponytown's \color{#6EA9F7} blueberries ! }}$ <br>
-  
+
+
+
+  <a href="https://github.com/kiwiconiccc" target="_blank">
+  <img src="https://github.com/user-attachments/assets/53cdc20c-cee3-4fb3-acf4-92cc6f65cdca" alt="Description of Image" width="15%" style="max-width: 500px; height: auto;" />
+</a>
+
+<sub>${\text{\color{#F7BC6E} @kiwiconiccc　\color{#ffffff} is ponytown's \color{#FEFFD4} coffee jelly ! }}$ <br>
+
 ![1000036892](https://github.com/user-attachments/assets/61650241-d0b9-45fe-a01b-08ab29d1045f)
 
 
