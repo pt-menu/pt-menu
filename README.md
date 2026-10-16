@@ -62,6 +62,14 @@
 
 <sub>${\text{\color{#FFDDB3} @777xngel　\color{#ffffff} is ponytown's \color{#F294B2} sweet tart ropes ! }}$ <br>
 
+
+
+<a href="https://github.com/J0hn-Lrnnon" target="_blank">
+  <img src="https://github.com/user-attachments/assets/b575c83b-07a1-4be6-a739-ddbe603d644d" alt="Description of Image" width="18%" style="max-width: 500px; height: auto;" />
+</a>
+
+<sub>${\text{\color{#F7BC6E} @J0hn-Lrnnon　\color{#ffffff} is ponytown's \color{#6EA9F7} blueberries ! }}$ <br>
+  
 ![1000036892](https://github.com/user-attachments/assets/61650241-d0b9-45fe-a01b-08ab29d1045f)
 
 
