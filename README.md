@@ -86,6 +86,15 @@
 
 <sub>${\text{\color{#F7BC6E} @Jfk1fan　\color{#ffffff} is ponytown's \color{#DED8B8} fish chowder ! }}$ <br>
 
+
+
+<a href="https://github.com/Gacha-cutie" target="_blank">
+  <img src="https://github.com/user-attachments/assets/f05ceed0-d364-40c2-941a-7ed14d43794e" alt="Description of Image" width="15%" style="max-width: 500px; height: auto;" />
+</a>
+
+<sub>${\text{\color{#F7BC6E} @Gacha-cutie　\color{#ffffff} is ponytown's \color{#F7BC6E} sugar cookies ! }}$ <br>
+
+
 ![1000036892](https://github.com/user-attachments/assets/61650241-d0b9-45fe-a01b-08ab29d1045f)
 
 
