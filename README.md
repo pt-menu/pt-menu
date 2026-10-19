@@ -100,7 +100,7 @@
   <img src="https://github.com/user-attachments/assets/128e73bc-537e-4eff-a9bc-da4836ea583a" alt="Description of Image" width="14%" style="max-width: 500px; height: auto;" />
 </a>
 
-<sub>${\text{\color{#F7BC6E} @SideCharacter-001　\color{#ffffff} is ponytown's \color{#F7BC6E} chocolate swiss roll ! }}$ <br>
+<sub>${\text{\color{#F7BC6E} @SideCharacter-001　\color{#ffffff} is ponytown's \color{#826949} chocolate swiss roll ! }}$ <br>
 
 
 ![1000036892](https://github.com/user-attachments/assets/61650241-d0b9-45fe-a01b-08ab29d1045f)
