@@ -117,6 +117,16 @@
 <span>${\text{\color{#F7BC6E} @SideCharacter-001　\color{#ffffff} is ponytown's \color{#826949} chocolate swiss roll ! }}$ <br>
 
 
+
+<a href="https://github.com/Kurokaori" target="_blank">
+  <img src="https://github.com/user-attachments/assets/68ba8264-b1fc-47bc-8f9b-c1f7038d298b" alt="Description of Image" width="14%" style="max-width: 500px; height: auto;" />
+</a>
+
+<span>${\text{\color{#F7BC6E} @Kurokaori　\color{#ffffff} is ponytown's \color{#FFFFFF} cotton candy ! }}$ <br>
+
+
+
+
 ![1000036892](https://github.com/user-attachments/assets/61650241-d0b9-45fe-a01b-08ab29d1045f)
 
 
