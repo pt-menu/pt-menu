@@ -87,10 +87,10 @@
 
 
   <a href="https://github.com/kiwiconiccc" target="_blank">
-  <img src="https://github.com/user-attachments/assets/53cdc20c-cee3-4fb3-acf4-92cc6f65cdca" alt="Description of Image" width="15%" style="max-width: 500px; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/4161088c-7996-44ec-aacf-e7e7f45a11f0" alt="Description of Image" width="16%" style="max-width: 500px; height: auto;" />
 </a>
 
-<span>${\text{\color{#F7BC6E} @kiwiconiccc　\color{#ffffff} is ponytown's \color{#FEFFD4} coffee jelly ! }}$ <br>
+<span>${\text{\color{#F7BC6E} @kiwiconiccc　\color{#ffffff} is ponytown's \color{#AEF76E} kiwi ! }}$ <br>
 
 
 
