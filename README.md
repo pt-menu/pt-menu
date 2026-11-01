@@ -122,7 +122,7 @@
   <img src="https://github.com/user-attachments/assets/8700c072-cd2e-4d4f-a183-0adad985e99d" alt="Description of Image" width="17%" style="max-width: 500px; height: auto;" />
 </a>
 
-<span>${\text{\color{#F7BC6E} @Kurokaori　\color{#ffffff} is ponytown's \color{#FFFFFF} cotton candy ! }}$ <br>
+<span>${\text{\color{#F7BC6E} @Kurokaori　\color{#ffffff} is ponytown's \color{#F79EBD} cotton candy ! }}$ <br>
 
 
 
