@@ -2,7 +2,7 @@
 
 <details>
   <summary>
-    <span>$\text{\color{#B2AC8B}I\color{#B1AC8F}n\color{#B0AC97}s\color{#AEACA3}p\color{#ACADAE}o\color{#ACADB7}!}$</span>
+    <span>$\text{\color{#F7BC6E}I\color{#B1AC8F}n\color{#B0AC97}s\color{#AEACA3}p\color{#ACADAE}o\color{#FFF0A7}!}$</span>
   </summary>
   <br>   
   <br>
