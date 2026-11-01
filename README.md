@@ -119,7 +119,7 @@
 
 
 <a href="https://github.com/Kurokaori" target="_blank">
-  <img src="https://github.com/user-attachments/assets/68ba8264-b1fc-47bc-8f9b-c1f7038d298b" alt="Description of Image" width="14%" style="max-width: 500px; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/8700c072-cd2e-4d4f-a183-0adad985e99d" alt="Description of Image" width="17%" style="max-width: 500px; height: auto;" />
 </a>
 
 <span>${\text{\color{#F7BC6E} @Kurokaori　\color{#ffffff} is ponytown's \color{#FFFFFF} cotton candy ! }}$ <br>
