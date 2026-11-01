@@ -1,5 +1,19 @@
 <div align="center">
 
+<details>
+  <summary>
+    <span>$\text{\color{#B2AC8B}I\color{#B1AC8F}n\color{#B0AC97}s\color{#AEACA3}p\color{#ACADAE}o\color{#ACADB7}!}$</span>
+  </summary>
+  <br>   
+  <br>
+  
+  <a href="https://github.com/pt-medals">Pt-Medals</a>!
+  <a href="https://github.com/loverstown">Loverstown</a>!
+
+
+  <br> <br>
+  </details>
+
 [![Hits](https://hits.sh/github.com/pt-menu.svg?label=Customers%20%E2%99%A5%EF%B8%8E&extraCount=100&color=F7BC6E&labelColor=fff0a7)](https://hits.sh/github.com/pt-menu/)
 
 <img src="https://github.com/user-attachments/assets/350cdd0f-495b-4fc2-a184-af516331ad92" alt="Alt Text" width="300" height="300">
@@ -106,13 +120,4 @@
 ![1000036892](https://github.com/user-attachments/assets/61650241-d0b9-45fe-a01b-08ab29d1045f)
 
 
-<details>
-  <summary> 𝐈nspo ! </summary>
-  <br>
-  
-  <a href="https://github.com/pt-medals">Pt-Medals</a>!
-  <a href="https://github.com/loverstown">Loverstown</a>!
 
-
-  <br> <br>
-  </details>
