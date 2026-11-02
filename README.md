@@ -138,7 +138,7 @@
   <img src="https://github.com/user-attachments/assets/3e29ffaa-e217-4baa-a53a-5a963ae961f5" alt="Description of Image" width="17%" style="max-width: 500px; height: auto;" />
 </a>
 
-<span>${\text{\color{#F7BC6E} @ThosePizz4s　\color{#ffffff} is ponytown's \color{#F7BC6E} pizza! }}$ <br>
+<span>${\text{\color{#F7BC6E} @ThosePizz4s　\color{#ffffff} is ponytown's \color{#F7E06E} p\color{#F77E6E}i\color{#F7E06E}z\color{#F77E6E}z\color{#F7E06E}a\color{#F77E6E}! }}$ <br>
 
 
 ![1000036892](https://github.com/user-attachments/assets/61650241-d0b9-45fe-a01b-08ab29d1045f)
