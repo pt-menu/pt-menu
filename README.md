@@ -128,14 +128,14 @@
 
 
 <a href="https://github.com/TheGlitchedSystem" target="_blank">
-  <img src="https://github.com/user-attachments/assets/24ae0842-6b1d-40af-8ec2-e25e06593afe" alt="Description of Image" width="17%" style="max-width: 500px; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/24ae0842-6b1d-40af-8ec2-e25e06593afe" alt="Description of Image" width="18%" style="max-width: 500px; height: auto;" />
 </a>
 
 <span>${\text{\color{#F7BC6E} @TheGlitchedSystem　\color{#ffffff} is ponytown's \color{#B89A74} root beer ! }}$ <br>
 
 
 <a href="https://github.com/ThosePizz4s" target="_blank">
-  <img src="https://github.com/user-attachments/assets/3e29ffaa-e217-4baa-a53a-5a963ae961f5" alt="Description of Image" width="17%" style="max-width: 500px; height: auto;" />
+  <img src="https://github.com/user-attachments/assets/3e29ffaa-e217-4baa-a53a-5a963ae961f5" alt="Description of Image" width="18%" style="max-width: 500px; height: auto;" />
 </a>
 
 <span>${\text{\color{#F7BC6E} @ThosePizz4s　\color{#ffffff} is ponytown's \color{#F7E06E} p\color{#F77E6E}i\color{#F7E06E}z\color{#F77E6E}z\color{#F7E06E}a\color{#F77E6E}! }}$ <br>
