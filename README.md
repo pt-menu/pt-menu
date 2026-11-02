@@ -134,6 +134,13 @@
 <span>${\text{\color{#F7BC6E} @TheGlitchedSystem　\color{#ffffff} is ponytown's \color{#B89A74} root beer ! }}$ <br>
 
 
+<a href="https://github.com/ThosePizz4s" target="_blank">
+  <img src="https://github.com/user-attachments/assets/3e29ffaa-e217-4baa-a53a-5a963ae961f5" alt="Description of Image" width="17%" style="max-width: 500px; height: auto;" />
+</a>
+
+<span>${\text{\color{#F7BC6E} @ThosePizz4s　\color{#ffffff} is ponytown's \color{#F7BC6E} pizza! }}$ <br>
+
+
 ![1000036892](https://github.com/user-attachments/assets/61650241-d0b9-45fe-a01b-08ab29d1045f)
 
 
