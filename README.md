@@ -131,7 +131,7 @@
   <img src="https://github.com/user-attachments/assets/24ae0842-6b1d-40af-8ec2-e25e06593afe" alt="Description of Image" width="17%" style="max-width: 500px; height: auto;" />
 </a>
 
-<span>${\text{\color{#F7BC6E} @TheGlitchedSystem　\color{#ffffff} is ponytown's \color{#F7BC6E} root beer ! }}$ <br>
+<span>${\text{\color{#F7BC6E} @TheGlitchedSystem　\color{#ffffff} is ponytown's \color{#B89A74} root beer ! }}$ <br>
 
 
 ![1000036892](https://github.com/user-attachments/assets/61650241-d0b9-45fe-a01b-08ab29d1045f)
